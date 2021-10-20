@@ -1,7 +1,7 @@
 # 4PrivacyEngine-Core
 C++ implementation of the 4PrivacyEngine core
 
-## Open Source Code and Whitepaper coming soon
+## Open Source Code and Whitepaper Coming Soon...
 The 4PrivacyEngine has been a work in progress since late 2020 - with the specification and conception. The first half of this year was spent in proof-of-concepts and work on the core.  Additional time was spent this year on building and testing bindings for Java, Swift, and Dart.  A draft whitepaper has been written and has gone through internal editing and review.
 
 ## Roadmap
