@@ -19,10 +19,7 @@ The 4PrivacyEngine has been a work in progress since late 2020 - with the specif
 
 **Place code in public repository.**  Allow public review of code.
 
-
 ## 4Privacy
-If you would like to join our advisory team then follow this link: [Contribute with the technology](https://4privacy.com/contact-us/#techreviewform) 
+If you would like to join to improve privacy via digital ownership and control of your information then follow this link: [Contact us](https://4privacy.com/contact-us/)  
 
-Want to contribute in other ways to improve privacy via digital ownership of information then follow this link: [Contact us](https://4privacy.com/contact-us/)  
-
-Find out more about [4Privacy.com](https://4privacy.com/)
+Learn more about us at [4Privacy.com](https://4privacy.com/)
