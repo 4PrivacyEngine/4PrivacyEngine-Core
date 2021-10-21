@@ -15,9 +15,9 @@ The 4PrivacyEngine has been a work in progress since late 2020 - with the specif
 
 **Second advisory team code review.**  Refactor code based on feedback from advisors in preparation for additional external code review and testing.
 
-**Limited external code review.** Make code available to limited external organizations for testing and review.  This is the final step before putting codes into public repositories.
+**Limited external code review.** Make code available to limited external organizations for testing and review.  This is the final step before putting code into public repository.
 
-**Place codes in public repositories.**  Allow public review of code.
+**Place code in public repository.**  Allow public review of code.
 
 ## 4Privacy
 The world has a privacy problem.  We’re working on technology to help solve it.
